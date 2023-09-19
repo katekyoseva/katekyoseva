@@ -1,3 +1,3 @@
-Hi, I’m @katekyoseva 😊
+Hi, I’m Kate 😊
 
 📚 I’m currently learning Java

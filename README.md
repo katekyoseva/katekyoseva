@@ -1,6 +1,7 @@
 <h1 align="left">Hi, I’m Kate 😊</h1>
 
  - 🌱 I’m currently learning **Java, C++ and Haskell**
+ - 🏫 Studying in Faculty of Mathematics and Informatics (FMI) at St. Kliment Ohridski University of Sofia.
 
  - 📫 How to reach me **ekaterinakioseva06@gmail.com**
 
